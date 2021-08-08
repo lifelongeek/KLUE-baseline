@@ -1,0 +1,4 @@
+train/loss = 0.00339626451022923
+valid/loss = 0.08100204169750214
+valid/entity_macro_f1 = 84.53946942512972
+valid/character_macro_f1 = 91.44729622576249
